@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj": {}
+    "c:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj": {
+    "c:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj",
+        "projectUniqueName": "c:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj",
         "projectName": "task3",
-        "projectPath": "C:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj",
+        "projectPath": "c:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\task3.csproj",
         "packagesPath": "C:\\Users\\Okonoki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\obj\\",
+        "outputPath": "c:\\Users\\Okonoki\\Desktop\\Людмила\\DZ_C#_3\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Okonoki\\AppData\\Roaming\\NuGet\\NuGet.Config"
