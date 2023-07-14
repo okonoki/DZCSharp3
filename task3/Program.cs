@@ -18,7 +18,7 @@ void NumberCubed(int N)
     {
         if (i < N)
         {
-             Console.Write(i * i * i + ", ");
+            Console.Write(i * i * i + ", ");
         }
         else Console.Write(i * i * i);
     }
